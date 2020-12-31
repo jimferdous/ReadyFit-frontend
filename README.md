@@ -7,7 +7,8 @@ ReadyFit is an e-commerce platform meant to help people find the gear they need 
 # Installation
 
 1. Ensure steps for back end are complete [here](https://github.com/jimferdous/ReadyFit-backend/tree/jim)
-2. Run npm start from command lines
+2. Run npm install
+2. Run npm start 
 
 # Demo
 
